@@ -1,0 +1,16 @@
+{
+  "indentSize": 4,
+  "tabSize": 4,
+  "insertSpaceAfterOpeningAndBeforeClosingTemplateStringBraces": true,
+  "placeOpenBraceOnNewLineForFunctions": false,
+  "placeOpenBraceOnNewLineForControlBlocks": false,
+  "files": [],
+  "references": [
+    {
+      "path": "./tsconfig.node.json"
+    },
+    {
+      "path": "./tsconfig.app.json"
+    }
+  ]
+}
